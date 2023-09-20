@@ -1,0 +1,42 @@
+#heading{
+    text-align: left;
+    background-color: blue;
+    padding: 40px;
+}
+
+#container{
+    text-align: center;
+    padding: 30px;
+    background: skyblue;
+}
+
+#fampic{
+    height: 500px;
+    width: 900px;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+#lilbg{
+    background: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#lilbg:hover{
+    width: 200px;
+    transition-delay: .5s;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+#pics{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+
